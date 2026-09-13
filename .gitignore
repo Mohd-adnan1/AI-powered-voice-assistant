@@ -1,0 +1,22 @@
+# Credentials & Keys
+API.txt
+.env
+
+# Databases & Cache
+*.db
+__pycache__/
+*.pyc
+
+# Temporary & Output Files
+temp_speech.mp3
+quick_notes.txt
+*.png
+*.jpg
+*.pptx
+*.docx
+*.xlsx
+web_image_*
+
+# Virtual Environments
+venv/
+env/
